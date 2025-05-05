@@ -85,6 +85,6 @@ Trained on a cleaned dataset with SMOTE applied to handle class imbalance. Model
 
 ## ✍️ Author
 
-**[Dinesh Anand Thulasiraman](https://www.linkedin.com/in/dineshanandt/)**  
+**[Dinesh Anand Thulasiraman](https://www.linkedin.com/in/dineshat/)**  
 📍 Data Science Graduate Student  
 🔗 [GitHub Profile](https://github.com/dineshanandt) | [LinkedIn](https://www.linkedin.com/in/dineshat/)
