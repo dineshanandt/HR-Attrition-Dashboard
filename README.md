@@ -15,6 +15,20 @@ This project analyzes IBM's HR Employee Attrition dataset using Python, machine 
 
 ---
 
+## Dataset
+
+The project uses the **IBM HR Employee Attrition dataset**, a publicly available dataset designed for HR analytics and data science applications.  
+It contains 1,470 employee records and 35 features including:
+
+- Demographics: Age, Gender, Education, Marital Status
+- Job-related details: Department, Job Role, Job Level, Salary, Stock Option Level
+- Work-life balance: Work-Life Balance, Overtime, Business Travel
+- Performance and engagement: Performance Rating, Years at Company, Job Satisfaction
+
+Dataset link: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+---
+
 ## ✨ Key Features
 
 - Attrition Breakdown by Role & Department  
@@ -40,8 +54,6 @@ HR-Attrition-Dashboard/
 │   └── Screenshot 3.png
 └── README.md                              # Project documentation
 ```
-
-
 ---
 
 ## 🚀 Getting Started
